@@ -1,0 +1,16 @@
+body {
+    background: linear-gradient(to right, #ad5389, #3c1053);
+}
+td{
+    padding: 100px;
+}
+td:hover{
+    padding: 110px;
+    border:1px solid purple ;
+    transition: 0.4s;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(185, 96, 96);
+}
